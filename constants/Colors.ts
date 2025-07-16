@@ -1,5 +1,6 @@
-const tintColorLight = '#2f95dc';
+export const tintColorLight = '#2f95dc';
 const tintColorDark = '#fff';
+export const gray = '#ccc';
 
 export default {
   light: {
