@@ -8,6 +8,11 @@ O app exibe minhas **tecnologias dominadas**, **certificados conquistados** e **
 
 ## 🧭 Navegação do App
 
+![home](./assets/images/home.png)
+![screen](./assets/images/nav_bar.png)
+![projects](./assets/images/projetos.png)
+![certificates](./assets/images/certificates.png)
+
 ### 🏠 Home
 
 > Página inicial com uma breve apresentação e visualização das tecnologias que domino.
