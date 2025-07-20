@@ -1,19 +1,19 @@
 import { StyleSheet } from "react-native";
-import { gray, tintColorLight } from '../constants/Colors';
+import { tintColorLight, lightGrey, gray11, gray12 } from '../constants/Colors';
 
 export const styles = StyleSheet.create({
-  container: { flex: 1 },
+  container: { flex: 1, backgroundColor: lightGrey },
   image: { width: 200, height: 200, borderRadius: 100, marginTop: 20, marginLeft: 10 },
   imageBackGround: {
     width: "100%",
     height: "40%",
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20,
-    backgroundColor: gray,
+    backgroundColor: gray12,
   },
-  about: { textAlign: 'center', fontFamily: 'Roboto_700Bold', color: '#8d8b82ff', fontSize: 20, marginTop: 10 },
+  about: { textAlign: 'center', fontFamily: 'Roboto_700Bold', color: gray11, fontSize: 20, marginTop: 10 },
   item: {
-    backgroundColor: '#474347ff',
+    backgroundColor: gray12,
     padding: 20,
     marginVertical: 8,
     marginHorizontal: 16,

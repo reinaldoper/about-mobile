@@ -8,7 +8,7 @@ O app exibe minhas **tecnologias dominadas**, **certificados conquistados** e **
 
 ## 🧭 Navegação do App
 
-![home](./assets/images/home.png)
+![home](./assets/images/home1.png)
 ![screen](./assets/images/nav_bar.png)
 ![projects](./assets/images/projetos.png)
 ![certificates](./assets/images/certificates.png)
